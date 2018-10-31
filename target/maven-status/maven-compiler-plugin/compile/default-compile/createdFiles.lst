@@ -1,0 +1,6 @@
+xyf\xrpc\config\AbstractConfig.class
+xyf\xrpc\config\ApplicationConfig.class
+xyf\xrpc\config\IllegalConfigException.class
+xyf\xrpc\config\Config.class
+xyf\xrpc\config\RegistryConfig$RegistryAddress.class
+xyf\xrpc\config\RegistryConfig.class
